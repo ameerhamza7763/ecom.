@@ -1,0 +1,15 @@
+.card_text{
+    color: black;
+    font-weight: 600;
+}
+.card-title{
+    font-weight: 800;
+}
+
+
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
